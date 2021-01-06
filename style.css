@@ -1,0 +1,9 @@
+body {
+    width: 200px;
+}
+p {
+    border: solid 1px black;
+}
+p:hover {
+    background-color: red;
+}
